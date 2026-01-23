@@ -2,7 +2,7 @@
 
 > 一文搞懂：什么是 ChatGPT、国内如何免费且稳定使用、官网注册步骤、镜像网站对比、安全与常见问题。内容长期更新，覆盖 GPT-5 / GPT-4o 等最新模型。
 
-> 2026-1-146 日最新更新
+> 2026-1-23 日最新更新
 
 ### 目录
 
@@ -51,7 +51,7 @@
 - 成本较低，套餐灵活
 精选推荐：
 
-- [**xsimplechat.com**](http://xsimplechat.com/)
+- [lazymanchat.com](http://lazymanchat.com/)
 - [ai.lanjingchat.com](http://ai.lanjingchat.com/)
 - [chatgpt-china.com](https://chatgpt-china.com/)
 - [chatgpt-chinese](https://chatgpt-chinese.com/)
